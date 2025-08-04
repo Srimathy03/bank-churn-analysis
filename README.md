@@ -3,7 +3,8 @@
 This project simulates a real-world data science assignment for the Bank of Mavenland. You are hired as a Data Scientist to investigate rising customer churn and help the bank design predictive models to retain customers.
 
 > Note: This project was completed as part of the 'Python for Data Science' course offered by Maven Analytics.
-> [![Maven Analytics Certificate](https://certificates.mavenanalytics.io/images/shared-badge.png)](https://certificates.mavenanalytics.io/c483f754-7d89-4d36-b997-0897a07aa529)
+
+[![Maven Analytics Certificate](https://certificates.mavenanalytics.io/images/shared-badge.png)](https://certificates.mavenanalytics.io/c483f754-7d89-4d36-b997-0897a07aa529)
 
 ## Objectives
 
